@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Tafsir!
+I'm a network solutions architect with a heavy interest in network programmability and automation.
+
+---
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python_logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git_logo" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="50"/> <img src="https://raw.githubusercontent.com/ecceman/affinity/master/svg/circle/blue/c_router2_blue.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/ecceman/affinity/master/svg/square/gray/sq_switch_multilayer.svg" width="50" height="50"/>
 
 <!--
 **ttafsir/ttafsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
