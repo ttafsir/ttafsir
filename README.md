@@ -4,7 +4,7 @@ I'm a network solutions architect with a heavy interest in network programmabili
 ---
 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python_logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git_logo" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="50"/> <img src="https://raw.githubusercontent.com/ecceman/affinity/master/svg/circle/blue/c_router2_blue.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python_logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git_logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/ecceman/affinity/master/svg/circle/blue/c_router2_blue.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/ecceman/affinity/master/svg/square/gray/sq_switch_multilayer.svg" width="50" height="50"/>
 
 <!--
